@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 180
+    },
+    "auditLog": "logs\\errorlog\\.e69146c1f273e5c21fdb0001daeb2c7adfe509f2-audit.json",
+    "files": [
+        {
+            "date": 1660808169138,
+            "name": "logs\\errorlog\\ms_core-2022-08-18.log",
+            "hash": "eb204937e6e2c4e17a365cac4d0886f8"
+        },
+        {
+            "date": 1660898529049,
+            "name": "logs\\errorlog\\ms_core-2022-08-19.log",
+            "hash": "bd7d034e1fda478edb5d20376ea6b1b2"
+        },
+        {
+            "date": 1661219928721,
+            "name": "logs\\errorlog\\ms_core-2022-08-23.log",
+            "hash": "fbf53d937a9d8fec49c2ca8c00474860"
+        },
+        {
+            "date": 1661326027918,
+            "name": "logs\\errorlog\\ms_core-2022-08-24.log",
+            "hash": "d42182acabe1e404695e35cf2b942b04"
+        },
+        {
+            "date": 1661394187770,
+            "name": "logs\\errorlog\\ms_core-2022-08-25.log",
+            "hash": "0331e8d163c46b9b46327439d6357574"
+        },
+        {
+            "date": 1661483684132,
+            "name": "logs\\errorlog\\ms_core-2022-08-26.log",
+            "hash": "a7486541cf63a69708f9924d40267dca"
+        },
+        {
+            "date": 1661735400533,
+            "name": "logs\\errorlog\\ms_core-2022-08-29.log",
+            "hash": "5d124c7493d0f566b09aceb11e337237"
+        },
+        {
+            "date": 1661823687483,
+            "name": "logs\\errorlog\\ms_core-2022-08-30.log",
+            "hash": "b243651730f99a0d58989dcceab7070f"
+        },
+        {
+            "date": 1661911853155,
+            "name": "logs\\errorlog\\ms_core-2022-08-31.log",
+            "hash": "2b992aac66d252931d97cf668018cd29"
+        },
+        {
+            "date": 1662004490402,
+            "name": "logs\\errorlog\\ms_core-2022-09-01.log",
+            "hash": "89b1ec263b087ed52e681aee242671a4"
+        },
+        {
+            "date": 1662081073021,
+            "name": "logs\\errorlog\\ms_core-2022-09-02.log",
+            "hash": "37ee388bd92fa90afc0bc392f9f1c15f"
+        },
+        {
+            "date": 1662341598121,
+            "name": "logs\\errorlog\\ms_core-2022-09-05.log",
+            "hash": "8f2ad425da124cc9e42cf6c88384b141"
+        },
+        {
+            "date": 1662428074915,
+            "name": "logs\\errorlog\\ms_core-2022-09-06.log",
+            "hash": "fa4a30578f52b4cde29c3f22263d483d"
+        },
+        {
+            "date": 1662513422511,
+            "name": "logs\\errorlog\\ms_core-2022-09-07.log",
+            "hash": "c741cb2a2b881dc285f94d4d61869009"
+        },
+        {
+            "date": 1662602662190,
+            "name": "logs\\errorlog\\ms_core-2022-09-08.log",
+            "hash": "1a004fb12d0b1cb8bf1bb0320ce114f5"
+        },
+        {
+            "date": 1662694042271,
+            "name": "logs\\errorlog\\ms_core-2022-09-09.log",
+            "hash": "c7f993944420163eeb3def4b9c200856"
+        },
+        {
+            "date": 1663058716556,
+            "name": "logs\\errorlog\\ms_core-2022-09-13.log",
+            "hash": "36fe69de59da0140b42ec3098cf029e7"
+        },
+        {
+            "date": 1663121537317,
+            "name": "logs\\errorlog\\ms_core-2022-09-14.log",
+            "hash": "325911c206208e0a5b7b29f4eaff4417"
+        },
+        {
+            "date": 1663646875066,
+            "name": "logs\\errorlog\\ms_core-2022-09-20.log",
+            "hash": "e96aac91e0e496743dc2d8f12f332ccb"
+        },
+        {
+            "date": 1663723572889,
+            "name": "logs\\errorlog\\ms_core-2022-09-21.log",
+            "hash": "b1d3a41872c68acdf152fc14a5f17e4b"
+        },
+        {
+            "date": 1664430154878,
+            "name": "logs\\errorlog\\ms_core-2022-09-29.log",
+            "hash": "1f3493d45aee2cf677874f2483482cc0"
+        },
+        {
+            "date": 1664499738333,
+            "name": "logs\\errorlog\\ms_core-2022-09-30.log",
+            "hash": "8dace01f453cb182378d0ccfcd9341bc"
+        }
+    ],
+    "hashType": "md5"
+}

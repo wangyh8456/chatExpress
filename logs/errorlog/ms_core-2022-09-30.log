@@ -1,0 +1,3 @@
+{"timestamp":"2022-09-30T12:42:52+08:00","host":"DESKTOP-0A5J87H","path":"/group/update","level":"error","detail":"db connect exist error! sql:update groupchat set propname='疯人院' where id=3","message":"API Response[500]:{\"code\":\"5100\",\"message\":\"internal server error\"}"}
+{"timestamp":"2022-09-30T13:47:47+08:00","host":"DESKTOP-0A5J87H","path":"/group/createug","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}
+{"timestamp":"2022-09-30T14:02:42+08:00","host":"DESKTOP-0A5J87H","path":"/group/create","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}

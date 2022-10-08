@@ -1,0 +1,8 @@
+{"timestamp":"2022-08-23T10:01:33+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Token Timeout!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-23T10:37:47+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Token Timeout!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-23T10:37:48+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Token Timeout!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-23T12:02:03+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-23T13:56:52+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Token Timeout!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-23T14:00:00+08:00","host":"DESKTOP-0A5J87H","path":"/user/update","level":"error","detail":"db.query exist error!","message":"API Response[500]:{\"code\":\"5100\",\"message\":\"internal server error\"}"}
+{"timestamp":"2022-08-23T16:03:08+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-23T17:16:42+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}

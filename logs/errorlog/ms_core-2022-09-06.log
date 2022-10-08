@@ -1,0 +1,4 @@
+{"timestamp":"2022-09-06T11:26:34+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-09-06T11:26:34+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-09-06T11:26:34+08:00","host":"DESKTOP-0A5J87H","path":"/friend/getFriendRequest","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-09-06T11:26:34+08:00","host":"DESKTOP-0A5J87H","path":"/friend/getFriendList","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}

@@ -1,0 +1,120 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 180
+    },
+    "auditLog": "logs\\.de54597ece09d6172c64dfca8215df29272c9131-audit.json",
+    "files": [
+        {
+            "date": 1660808169135,
+            "name": "logs\\ms_core-2022-08-18.log",
+            "hash": "922a178c43b36f684ba9227e3882c43a"
+        },
+        {
+            "date": 1660898529041,
+            "name": "logs\\ms_core-2022-08-19.log",
+            "hash": "44b5e42ff6bbefa2c5c6b7da99456c35"
+        },
+        {
+            "date": 1661219928699,
+            "name": "logs\\ms_core-2022-08-23.log",
+            "hash": "091d91e11a09a404e0f5a3ef0ad6f04f"
+        },
+        {
+            "date": 1661326027914,
+            "name": "logs\\ms_core-2022-08-24.log",
+            "hash": "dcc90e50baf7b5cfdc1a0e43cd1ce60d"
+        },
+        {
+            "date": 1661394187749,
+            "name": "logs\\ms_core-2022-08-25.log",
+            "hash": "f701e6a6395fa73d72b19c4724b5807d"
+        },
+        {
+            "date": 1661483684115,
+            "name": "logs\\ms_core-2022-08-26.log",
+            "hash": "5bd37af87c84684bdcaaf54b2269df1b"
+        },
+        {
+            "date": 1661735400518,
+            "name": "logs\\ms_core-2022-08-29.log",
+            "hash": "096ec998e01d62cb1fa79c73f3f236e3"
+        },
+        {
+            "date": 1661823687458,
+            "name": "logs\\ms_core-2022-08-30.log",
+            "hash": "49bc3f43309cd34fe067f1ab2cce5225"
+        },
+        {
+            "date": 1661911853138,
+            "name": "logs\\ms_core-2022-08-31.log",
+            "hash": "952e07bfe726191899163bc5e136808e"
+        },
+        {
+            "date": 1662004490380,
+            "name": "logs\\ms_core-2022-09-01.log",
+            "hash": "834f1d2a0564eea8af5d1360c3afc1c6"
+        },
+        {
+            "date": 1662081073005,
+            "name": "logs\\ms_core-2022-09-02.log",
+            "hash": "d650d25adc48e4eafb7be3476a8905ce"
+        },
+        {
+            "date": 1662341598104,
+            "name": "logs\\ms_core-2022-09-05.log",
+            "hash": "89ebf879e165f838e5062c154cd81e4d"
+        },
+        {
+            "date": 1662428074898,
+            "name": "logs\\ms_core-2022-09-06.log",
+            "hash": "4737677248596983e0a34cec1be7f59a"
+        },
+        {
+            "date": 1662513422490,
+            "name": "logs\\ms_core-2022-09-07.log",
+            "hash": "069dba45ea8fb54bbd5a4bcff56be9ff"
+        },
+        {
+            "date": 1662602662169,
+            "name": "logs\\ms_core-2022-09-08.log",
+            "hash": "0a7763787cdffe82193d82da5e8c6821"
+        },
+        {
+            "date": 1662694042225,
+            "name": "logs\\ms_core-2022-09-09.log",
+            "hash": "c43a4f0e838ce3420277f3bd644dcb05"
+        },
+        {
+            "date": 1663058716473,
+            "name": "logs\\ms_core-2022-09-13.log",
+            "hash": "618acf5be87d2ecdcb4a76d3f56d8f41"
+        },
+        {
+            "date": 1663121537274,
+            "name": "logs\\ms_core-2022-09-14.log",
+            "hash": "7d83dd2a59728b9ad7ad48fad9a93a21"
+        },
+        {
+            "date": 1663646875002,
+            "name": "logs\\ms_core-2022-09-20.log",
+            "hash": "18c9bbb4fe6478e6c2cd3e0f4cc565cf"
+        },
+        {
+            "date": 1663723572874,
+            "name": "logs\\ms_core-2022-09-21.log",
+            "hash": "eb90a626019d72e7bbbc9abddafd5d95"
+        },
+        {
+            "date": 1664430154836,
+            "name": "logs\\ms_core-2022-09-29.log",
+            "hash": "895e31ad62e6d205ef8b2857fa7b8221"
+        },
+        {
+            "date": 1664499738326,
+            "name": "logs\\ms_core-2022-09-30.log",
+            "hash": "9b67662d954508b5440e3abd0d91b11f"
+        }
+    ],
+    "hashType": "md5"
+}

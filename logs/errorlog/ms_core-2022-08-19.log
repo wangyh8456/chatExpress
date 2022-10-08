@@ -1,0 +1,5 @@
+{"timestamp":"2022-08-19T16:50:48+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}
+{"timestamp":"2022-08-19T16:51:42+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}
+{"timestamp":"2022-08-19T16:51:50+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}
+{"timestamp":"2022-08-19T16:52:21+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}
+{"timestamp":"2022-08-19T17:11:52+08:00","host":"DESKTOP-0A5J87H","path":"/favicon.ico","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}

@@ -1,0 +1,4 @@
+{"timestamp":"2022-08-18T15:47:13+08:00","host":"DESKTOP-0A5J87H","path":"/favicon.ico","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-18T15:49:04+08:00","host":"DESKTOP-0A5J87H","path":"/favicon.ico","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-18T16:13:09+08:00","host":"DESKTOP-0A5J87H","path":"/user/create","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}
+{"timestamp":"2022-08-18T16:18:27+08:00","host":"DESKTOP-0A5J87H","path":"/user/create","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}

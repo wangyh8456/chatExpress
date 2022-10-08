@@ -1,0 +1,5 @@
+{"timestamp":"2022-08-24T15:34:47+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Token Timeout!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-24T15:34:47+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Token Timeout!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-24T15:57:03+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-24T15:57:03+08:00","host":"DESKTOP-0A5J87H","path":"/user/getAvatar","level":"error","detail":"Invalid Token!","message":"API Response[403]:{\"code\":\"4010\",\"message\":\"unauthorized\"}"}
+{"timestamp":"2022-08-24T17:26:09+08:00","host":"DESKTOP-0A5J87H","path":"/user/create","level":"error","detail":"Not Defined Error","message":"API Response[500]:{\"code\":\"4101\",\"message\":\"unknown error\"}"}
